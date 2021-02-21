@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Library Application</string>
+    <string name="home">Home</string>
+    <string name="logOut">Log Out</string>
+    <string name="back">Back</string>
+    <string name="loginPrompt">Please log in to continue</string>
+    <string name="usernamePrompt">Username:</string>
+    <string name="passwordPrompt">Password:</string>
+    <string name="isAdminTickBox">Admin</string>
+    <string name="nameTag">Name:</string>
+    <string name="submitButton">Submit</string>
+    <string name="viewBooksButton">View Books</string>
+    <string name="viewOngoingLoansButton">View Current Loans</string>
+    <string name="viewLoanHistoryButton">View Loan History</string>
+    <string name="copiesTag">Copies:</string>
+    <string name="createCopiesTag">Create new copies</string>
+    <string name="referenceCB">Reference copy</string>
+
+</resources>
